@@ -1,0 +1,5 @@
+MNIST
+images
+.DS_Store
+training
+__pycache__
